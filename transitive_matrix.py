@@ -85,4 +85,7 @@ def number_of_transitive(n):
     return (transitive, transitive_matrix)
 
 
+n = int(input('Please, enter number of elements in set(from 1 to 4):  '))
+print(number_of_transitive(n)[0])
+
 doctest.testmod()
