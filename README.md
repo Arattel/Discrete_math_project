@@ -6,7 +6,7 @@ This project is made for calculating how many possible positive ratios we can ma
 
 How to work with this project:
 1)Download all files of project in one folder
-2)Launch file "transitive_matrix.py" in console with command "python3 transitive_matrix.py" for Linux or "python transitive_matrix.py" for Windows
+2)Launch file "transitive_matrix.py" in console with command "python3" for Linux or "python" for Windows
 3)Enter a number of elements in set
 4)Wait for Python module to calculate number of transitive ratios.
 
